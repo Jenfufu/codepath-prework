@@ -37,7 +37,7 @@ The following **additional** features are implemented:
 - [ ] List anything else that you can get done to improve the app!
 
 ## Video Walkthrough (GIF)
-<img src = "http://g.recordit.co/yOOpDGsCEt.gif" width=250><br>
+<img src = "http://g.recordit.co/yOOpDGsCEt.gif" width=500><br>
 http://g.recordit.co/yOOpDGsCEt.gif
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:

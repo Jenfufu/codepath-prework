@@ -48,7 +48,7 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
-https://www.geeksforgeeks.org/java-math-random-method-examples/
+https://www.geeksforgeeks.org/java-math-random-method-examples/  
 https://www.w3schools.com/jsref/prop_node_textcontent.asp
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 

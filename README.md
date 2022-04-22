@@ -57,7 +57,7 @@ https://www.w3schools.com/jsref/prop_node_textcontent.asp
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
 [YOUR ANSWER HERE]
 
-4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
+4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words)  
 There are many more functions that I would add, such as different game difficulties (easy,medium, and hard). The user could click on the buttons corresponding to the difficulty levels and the game would adjust its speed, strike count, and the length of the sequence to make it easier or harder for the user to win. The easy difficulty would not speed up at all as the sequence gets longer, along with having three strike counts and the total sequence being of length 7. The medium difficulty would have the sequence speed up by 50ms, have two strikes, and the length of the sequence will be 9. The hard difficulty would have the sequence speed up by 75ms, have only one strike (no mistakes can be made), and the sequence length will be 11. This way, the game would have a bit more dimension and a variety of users will be able to win (ranging from those with bad memory to those with exceptional memory). 
 
 

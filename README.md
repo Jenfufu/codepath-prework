@@ -52,8 +52,8 @@ https://www.geeksforgeeks.org/java-math-random-method-examples/
 https://www.w3schools.com/jsref/prop_node_textcontent.asp  
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Text_formatting
 
-2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
-[YOUR ANSWER HERE]
+2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words)  
+A specific challenge that I encountered while creating this submission was with displaying the strike count for on the page. Because I had no experience with Javascript, I had to consult online resources in order to create it. This prework did teach me some aspects of Javascript and HTML (such as tags and ids), but I was still unsure of how to display a changing variable. Initially, I tried using a heading tag and displaying the text like so: “Strike Count: + strikeCount”. Of course, this did not work and I had to look for a different method. I decided to go with the div tag since it is very versatile and easily implementable with anything. I noticed that the start and stop button were accessible by the command “document.getElementById()” with the id as the parameter input. I added an id “strike” to the div tag. For easier access, I decided to set a variable for the getElementById command. I did not know where to go from here so I decided to search up a method to display variable values. One of the tabs that appeared from the search engine was about the property textContent which is able to set or return the text content of the specified element. I knew I would be able to set the contents to the strike counter, but I was also unaware of how text formats in Javascript worked. Looking up the syntax for the format, I was able to display the strike counter using “strike.textContent = `Strike Count: ${strikeCount}`.
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
 [YOUR ANSWER HERE]
